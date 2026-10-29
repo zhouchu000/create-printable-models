@@ -1,0 +1,4 @@
+# STL inspection. CadQuery is optional and needed only for the CadQuery recipe.
+trimesh>=5.1,<6
+numpy>=1.26
+scipy>=1.11
